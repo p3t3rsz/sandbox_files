@@ -1,0 +1,12 @@
+Europe:
+Slovakia - Bratislava
+Chech republic - Prague
+Hungary - Budapest
+
+Asia:
+Japan - Tokyo
+China - Peking
+
+America:
+USA - Washington
+Cuba - Havana
